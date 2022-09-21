@@ -3,7 +3,7 @@
   }
    
   header {
-    background-image: url("./resources/images/pattern.jpeg");
+    background-image: url("../images/pattern.jpeg");
   } 
 
   h1 {
@@ -29,10 +29,11 @@
     background-color: skyblue;
   }
 
-  p, 
-  li {
-    font-size: 18px;
+  .price {
+    font-weight: bold;
+    color: blue;
   }
+  
    
    
   a {
